@@ -1,0 +1,5 @@
+starship preset bracketed-segments -o ~/.config/starship.toml #Set starship preset
+
+
+
+gsettings set org.gnome.desktop.interface gtk-theme "Adwaita-dark" - Set gtkx
